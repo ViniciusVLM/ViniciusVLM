@@ -55,8 +55,13 @@
 ## 📊 Estatísticas e Atividade / GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusVLM&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Vinicius's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVLM&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVLM&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ViniciusVLM&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="180px"/>
 </div>
 
 ---

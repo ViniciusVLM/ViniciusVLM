@@ -53,9 +53,17 @@ Profissional de TI com experiência prática em **automação de processos**, **
 
 ---
 
-## Atividade no GitHub
-
+## Projetos em Destaque
+ 
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [SecureDesk](https://github.com/ViniciusVLM/SecureDesk) | Sistema de chamados de TI com controle de acesso por perfil | Angular, SQL |
+| [Educathon](https://github.com/ViniciusVLM/Educathon) | Copiloto pedagógico com IA para feedback de atividades | React, Node.js |
+| [PsycheBot](https://github.com/ViniciusVLM/PsycheBot) | Chatbot de orientação profissional com IA generativa | Flask, Gemini API |
+| [Pipefy ETL](https://github.com/ViniciusVLM/PipefyETL) | Automação de extração e organização de relatórios | Python, Selenium, Pandas |
+ 
+---
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusVLM&show_icons=true&hide_border=true&locale=pt-br&title_color=0077B5&icon_color=0077B5&text_color=555555&bg_color=ffffff" height="165px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVLM&layout=compact&hide_border=true&locale=pt-br&title_color=0077B5&text_color=555555&bg_color=ffffff" height="165px" alt="Linguagens mais usadas"/>
+  <i>Aberto a novas oportunidades — sinta-se à vontade para entrar em contato!</i>
 </p>

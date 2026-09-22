@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/vinicius_lou_17/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://profile-counter.deno.dev/ViniciusVLM/count.svg" alt="Visualizações de Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=ViniciusVLM&color=0077B5&style=flat-square&label=Visualizações+de+Perfil" alt="Visualizações de Perfil" />
 </p>
 
 ---
@@ -20,10 +20,10 @@
 
 Profissional de TI com experiência prática em **automação de processos**, **integração de APIs** e **desenvolvimento de aplicações web**. Atualmente me especializando em **Redes de Computadores e Segurança da Informação** pelo Senac, com foco na construção de sistemas seguros, escaláveis e de fácil manutenção.
 
-- 🔐 Em busca de oportunidades nas áreas de **Cibersegurança** e **Automação Inteligente**
-- ⚙️ Experiência com automação de fluxos de trabalho utilizando **n8n**, **Pipefy** e **Python**
-- 🧱 Desenvolvimento de aplicações modulares com **Django**, **React** e **TypeScript**
-- 📊 Análise de dados e geração de relatórios com **Pandas** e **Selenium**
+-  Em busca de oportunidades nas áreas de **Cibersegurança** e **Automação Inteligente**
+-  Experiência com automação de fluxos de trabalho utilizando **n8n**, **Pipefy** e **Python**
+-  Desenvolvimento de aplicações modulares com **Django**, **React** e **TypeScript**
+-  Análise de dados e geração de relatórios com **Pandas** e **Selenium**
 
 ---
 
@@ -56,9 +56,6 @@ Profissional de TI com experiência prática em **automação de processos**, **
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVLM&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ViniciusVLM&theme=default&hide_border=true" height="160px" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusVLM&show_icons=true&hide_border=true&locale=pt-br&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" height="160px" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ViniciusVLM&hide_border=true&locale=pt_BR" height="160px" alt="GitHub Streak"/>
 </p>

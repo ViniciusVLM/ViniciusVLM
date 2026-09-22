@@ -56,6 +56,6 @@ Profissional de TI com experiência prática em **automação de processos**, **
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusVLM&show_icons=true&hide_border=true&locale=pt-br&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" height="160px" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=ViniciusVLM&hide_border=true&locale=pt_BR" height="160px" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusVLM&show_icons=true&hide_border=true&locale=pt-br&title_color=0077B5&icon_color=0077B5&text_color=555555&bg_color=ffffff" height="165px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVLM&layout=compact&hide_border=true&locale=pt-br&title_color=0077B5&text_color=555555&bg_color=ffffff" height="165px" alt="Linguagens mais usadas"/>
 </p>

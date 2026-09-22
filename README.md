@@ -1,85 +1,64 @@
-<div align="center">
-  
-  # 👋 Olá, eu sou o Vinicius Lourenço Martins!
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=43F724&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Automation;Python+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
-  </a>
+<h1 align="center">Vinicius Lourenço Martins</h1>
 
-  <br/>
-
-  <!-- Imagem principal substituída pelo GIF local solicitado pelo usuário -->
-  <img src="Github.gif" width="70%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Demonstração / Github Showcase"/>
-
-</div>
-
-<br/>
-
-## 👤 Sobre Mim / About Me
-
-*   🧐 Atualmente focado e em busca de oportunidades nas áreas de **Cibersegurança (Cybersecurity)** e **Automação de Processos**.
-*   🌱 Especializando em **Redes de Computadores e Segurança da Informação** pelo **Senac**.
-*   ⚙️ Especialista em automação de fluxos de trabalho complexos utilizando **n8n, Pipefy e Python**.
-*   💻 Construindo aplicações seguras, modulares e escaláveis com **Django, React e TypeScript**.
-
----
-
-## 👨‍💻 Habilidades Técnicas / Tech Stack
-
-### 🤖 Automação & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pipefy-333333?style=for-the-badge&logo=pipefy&logoColor=white" />
+<p align="center">
+  <b>Cibersegurança · Automação de Processos · Desenvolvimento Backend</b>
 </p>
 
-### 🌐 Frontend & UI/UX Design
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### 🛡️ Infraestrutura & Segurança da Informação
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-049BD9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-## 📊 Estatísticas e Atividade / GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVLM&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ViniciusVLM&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="180px"/>
-</div>
-
----
-
-## 🤝 Vamos nos conectar? / Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vinicius-lourenço-martins-722287381" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vinicius_lou_17/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+  <img src="https://profile-counter.deno.dev/ViniciusVLM/count.svg" alt="Visualizações de Perfil" />
 </p>
 
-<br/>
+---
 
-<div align="center">
-  <p><b>Visualizações de Perfil</b></p>
-  <img src="https://profile-counter.deno.dev/ViniciusVLM/count.svg" alt="Profile Visitors" />
-</div>
+## Sobre Mim
+
+Profissional de TI com experiência prática em **automação de processos**, **integração de APIs** e **desenvolvimento de aplicações web**. Atualmente me especializando em **Redes de Computadores e Segurança da Informação** pelo Senac, com foco na construção de sistemas seguros, escaláveis e de fácil manutenção.
+
+- 🔐 Em busca de oportunidades nas áreas de **Cibersegurança** e **Automação Inteligente**
+- ⚙️ Experiência com automação de fluxos de trabalho utilizando **n8n**, **Pipefy** e **Python**
+- 🧱 Desenvolvimento de aplicações modulares com **Django**, **React** e **TypeScript**
+- 📊 Análise de dados e geração de relatórios com **Pandas** e **Selenium**
+
+---
+
+## Habilidades Técnicas
+
+**Automação & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Pipefy](https://img.shields.io/badge/Pipefy-333333?style=flat-square&logo=pipefy&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Infraestrutura & Segurança**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-049BD9?style=flat-square&logo=cisco&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVLM&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ViniciusVLM&theme=default&hide_border=true" height="160px" alt="GitHub Streak"/>
+</p>

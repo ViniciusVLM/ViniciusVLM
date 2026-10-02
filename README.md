@@ -1,69 +1,36 @@
-<h1 align="center">Vinicius Lourenço Martins</h1>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusVLM/ViniciusVLM/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusVLM/ViniciusVLM/main/light.svg">
+  <img alt="Vinicius Lourenço Martins" src="https://raw.githubusercontent.com/ViniciusVLM/ViniciusVLM/main/light.svg">
+</picture>
+</div>
 
-<p align="center">
-  <b>Cibersegurança · Automação de Processos · Desenvolvimento Backend</b>
-</p>
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=ViniciusVLM&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://SEU-INSTANCE.vercel.app/api?username=ViniciusVLM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://SEU-INSTANCE.vercel.app/api/top-langs/?username=ViniciusVLM&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-lourenço-martins-722287381" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/vinicius_lou_17/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ViniciusVLM&color=0077B5&style=flat-square&label=Visualizações+de+Perfil" alt="Visualizações de Perfil" />
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusVLM/ViniciusVLM/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusVLM/ViniciusVLM/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ViniciusVLM/ViniciusVLM/output/github-snake.svg" />
+</picture>
+</div>
 
----
-
-## Sobre Mim
-
-Profissional de TI com experiência prática em **automação de processos**, **integração de APIs** e **desenvolvimento de aplicações web**. Atualmente me especializando em **Redes de Computadores e Segurança da Informação** pelo Senac, com foco na construção de sistemas seguros, escaláveis e de fácil manutenção.
-
--  Em busca de oportunidades nas áreas de **Cibersegurança** e **Automação Inteligente**
--  Experiência com automação de fluxos de trabalho utilizando **n8n**, **Pipefy** e **Python**
--  Desenvolvimento de aplicações modulares com **Django**, **React** e **TypeScript**
--  Análise de dados e geração de relatórios com **Pandas** e **Selenium**
-
----
-
-## Habilidades Técnicas
-
-**Automação & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![Pipefy](https://img.shields.io/badge/Pipefy-333333?style=flat-square&logo=pipefy&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Infraestrutura & Segurança**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-049BD9?style=flat-square&logo=cisco&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## Projetos em Destaque
- 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [SecureDesk](https://github.com/ViniciusVLM/SecureDesk) | Sistema de chamados de TI com controle de acesso por perfil | Angular, SQL |
-| [Educathon](https://github.com/ViniciusVLM/Educathon) | Copiloto pedagógico com IA para feedback de atividades | React, Node.js |
-| [PsycheBot](https://github.com/ViniciusVLM/PsycheBot) | Chatbot de orientação profissional com IA generativa | Flask, Gemini API |
-| [Pipefy ETL](https://github.com/ViniciusVLM/PipefyETL) | Automação de extração e organização de relatórios | Python, Selenium, Pandas |
- 
----
- 
-<p align="center">
-  <i>Aberto a novas oportunidades — sinta-se à vontade para entrar em contato!</i>
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/vinicius-louren%C3%A7o-martins-722287381/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/vinicius_lou_17/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vini172006v@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
